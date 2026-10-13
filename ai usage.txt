@@ -1,0 +1,5 @@
+perft(testing) functions in the board file
+the gui file along with the pieces images.
+pieceTypeAt, pawnAttacks function in board file.
+
+all the other functions, files were self made

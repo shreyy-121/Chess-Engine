@@ -4,7 +4,7 @@
 #include <cstdlib> 
 #include <vector>
 #include <string>
-#include "board2.cpp"
+#include "board.cpp"
 
 //piece values->
 //pawn = 1

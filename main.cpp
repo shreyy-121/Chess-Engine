@@ -1,6 +1,6 @@
 #include <iostream>
 #include <string>
-#include "board2.cpp"
+#include "board.cpp"
 #include "eval.cpp"
 #include "search.cpp"
 
